@@ -1,1 +1,6 @@
 this is bug fixed file.
+this is new line code 
+a beautiful line of code added to the file.
+this is the last line of code in the file.
+bug fixed line of code.
+this is the last line of code in the file.
