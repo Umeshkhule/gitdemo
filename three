@@ -1,5 +1,11 @@
 this is first comit of file three.
 hey here is something new.
 
+<<<<<<< HEAD
 hey here is something new again.
 now we are going to add some more lines to the file three.
+=======
+hey here is something new.
+
+here is something new. please check it out.
+>>>>>>> feb-bug-fix
